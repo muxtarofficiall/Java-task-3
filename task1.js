@@ -55,6 +55,8 @@
 //console.log("Bədən kütlə indeksiniz: " + bedenKutleIndeksi.toFixed(1));
 //console.log("Nəticə: " + mesaj);
 
+
+
 ///Userin daxil etdiyi qiymetin (Ela (100-90), Yaxsi(90-75), Orta(75-55), , Pis(55-35), Kafi(35-0)) oldugunu yoxlayin:
 //let point = +prompt("Qiymətinizi daxil edin (0 - 100):");
 
