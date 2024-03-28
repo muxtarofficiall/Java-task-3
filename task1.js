@@ -1,5 +1,5 @@
 ///1)Array icinde en boyuk ededi tapin:
-//let numbers = [1, 3, 5, 6];
+//let numbers = [1, 3, 5, 7, 9, 2, 8, 6, 4, 0];
 //let enBöyük = Math.max(...numbers);
 //console.log("En büyük sayı: " + enBöyük);
 
